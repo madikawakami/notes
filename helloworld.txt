@@ -1,0 +1,4 @@
+mkdir <folder>
+root: cd/
+go back/ move up: cd..
+create file in file: mkdir "name of file"
