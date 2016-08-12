@@ -1,4 +1,33 @@
-mkdir <folder>
-root: cd/
-go back/ move up: cd..
-create file in file: mkdir "name of file"
+CLI: command line interface
+- means of interacting with a computer in the fora of successive lines of text
+
+GUI: Graphical user interface
+- means of interacting with a computer using visual icons
+
+3 levels of knowing: 
+1. knowing and understanding
+2. teaching and reinforcing
+3. grocking: to understand intuitively
+
+Tools:
+1. sublime text
+2. github
+3. Git shell
+
+Do not copy and paste
+
+file structure
+root directory
+file
+sub folder
+file
+files
+
+directory folder
+
+git shell commands
+
+git init- initialize project
+git status- check project status
+"clean" no red in status
+
