@@ -1,3 +1,5 @@
+//My first sublime text file.
+
 CLI: command line interface
 - means of interacting with a computer in the fora of successive lines of text
 
@@ -14,20 +16,32 @@ Tools:
 2. github
 3. Git shell
 
-Do not copy and paste
+//Do not copy and paste - know what each line of code does before using code off internet
 
 file structure
 root directory
-file
-sub folder
-file
 files
+    |
+    sub folder
+    files
+        |   
+        files
+        sub folder
 
 directory folder
 
-git shell commands
+git shell commands (CLI // terminal)
+ls - list directions
+cd - change into directories
+.. - move up
+cd / - goes to computer root folder (c drive)
+mkdir - create directory
+touch - create file
+
+Git commands
 
 git init- initialize project
 git status- check project status
 "clean" no red in status
-
+git add <file name>
+git commit -m "this is my first commit for notes"
