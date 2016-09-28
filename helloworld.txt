@@ -45,3 +45,29 @@ git status- check project status
 "clean" no red in status
 git add <file name>
 git commit -m "this is my first commit for notes"
+
+HTML hyper text marekup language
+
+
+1. responsive design
+    -Building a site to respond to multiple sizes also known as fluid design
+a. examples: 
+    -google, facebook,
+2. grid based web design
+    - web design with grid content layout
+    -ex: pinterest
+3. media queries
+    -break points in CSS that tell your app to change according to screensize
+5. what is EM in CSS
+    - unit of measure in CSS that adjusts to parent times 150%. Use EM in responsive design and pixels on static pages.
+  a. convert px to em
+    - multiply by 1.5
+
+
+Mobile design
+1. What is a mobile design
+    - Web app designed for mobile devices
+  a. example: 
+    - instagram
+  b. what makes the design an effective for mobile
+    - 
