@@ -71,3 +71,20 @@ Mobile design
     - instagram
   b. what makes the design an effective for mobile
     - 
+
+javascript:
+= is assignment
+    -asign variables
+== 
+    -comparing
+
+! = not equal
+
+logical operators
+
+&& - and'
+|| - or 
+
+
+link:
+slides.com/javascriptbasics

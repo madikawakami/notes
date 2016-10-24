@@ -1,0 +1,50 @@
+// this is a comment
+/* this is a block comment */
+
+// this is a string
+var myName = "jon"
+
+// this is a string
+var myAge = 12;
+
+//boolean type
+var booleanExample = true;
+
+//unassigned variable
+undefined
+
+
+//array
+
+//objects
+
+//function is an execute statement
+//anonymous
+function (){
+
+}
+
+function nameOfFunction (){
+
+}
+
+//invoking a function
+nameOfFunction()
+
+//parameters
+function hello (a,b){
+	console.log(a + b);
+}
+
+hello(10,11);
+
+function createGreeting (name,age){
+	if (age < 32){
+		console.log('hello' + name);
+		return 'hello' + name;
+	} else {
+		console.log('hello Mr.' + name);
+		return 'hello Mr.' + name;
+		return 'hello MRS.' + name;
+	}
+}
