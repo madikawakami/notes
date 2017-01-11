@@ -1,0 +1,12 @@
+function calculate (type, value1, value2){
+	if (type == "Add")
+} 
+function calculate ( type, value1,value2){
+	if (type == "subtract")
+}
+function calculate ( type, value1,value2){
+	if (type == "divide")
+}
+function calculate ( type, value1,value2){
+	if (type == "multiply")
+}
